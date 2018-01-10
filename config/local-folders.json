@@ -1,0 +1,11 @@
+{
+    "base": {
+        "path": "./assets/imgs/"
+    },
+    "ffmpeg": {
+        "path": "./bin/ffmpeg/bin/ffmpeg"
+    },
+    "ffprobe": {
+        "path": "./bin/ffmpeg/bin/ffprobe"
+    }
+}
